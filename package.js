@@ -1,6 +1,6 @@
 Package.describe({
 	name: 'ls3271:meteor-social-share',
-	version: '0.0.1',
+	version: '0.0.2',
 	summary: 'jQuery plugin that generates simple, light, flexible, and good-looking share button',
 	git: 'https://github.com/sunny0825/meteor-social-share.git',
 	documentation: 'README.md'
